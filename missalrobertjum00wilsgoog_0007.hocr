@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./missalrobertjum00wilsgoog_0007.png"; bbox 0 0 3038 5106; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 183 45 1069 401">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 183 45 1069 401">
+     <span class='ocr_line' id='line_1_1' title="bbox 183 45 1069 401; baseline 0.064 -109"><span class='ocrx_word' id='word_1_1' title='bbox 183 45 212 119; x_wconf 53' lang='grc' dir='ltr'><strong><em>Θ</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 288 166 537 331; x_wconf 46' lang='lat' dir='ltr'>{am</span> <span class='ocrx_word' id='word_1_3' title='bbox 568 197 759 329; x_wconf 55' lang='lat' dir='ltr'>m,</span> <span class='ocrx_word' id='word_1_4' title='bbox 788 177 1069 401; x_wconf 41' lang='grc' dir='ltr'>ἕῳ·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 674 482 795 563">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 674 482 795 563">
+     <span class='ocr_line' id='line_1_2' title="bbox 674 482 795 563; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 674 482 795 563; x_wconf 87' lang='lat' dir='ltr'>THE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 566 777 909 941">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 566 777 909 941">
+     <span class='ocr_line' id='line_1_3' title="bbox 566 777 909 941; baseline -0.006 -2"><span class='ocrx_word' id='word_1_6' title='bbox 566 777 909 941; x_wconf 79' lang='lat' dir='ltr'>MISSAL</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 101 1473 1323 1738">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 101 1473 1323 1738">
+     <span class='ocr_line' id='line_1_4' title="bbox 101 1473 1323 1738; baseline -0.004 -66"><span class='ocrx_word' id='word_1_7' title='bbox 101 1510 726 1738; x_wconf 47' lang='lat' dir='ltr'>{gossfflop</span> <span class='ocrx_word' id='word_1_8' title='bbox 808 1473 1323 1707; x_wconf 67' lang='lat' dir='ltr'><strong>fflMJEGES.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 394 2685 1058 3104">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 421 2685 1030 2970">
+     <span class='ocr_line' id='line_1_5' title="bbox 654 2685 840 2742; baseline -0.008 -1.437"><span class='ocrx_word' id='word_1_9' title='bbox 654 2685 771 2742; x_wconf 77' lang='lat' dir='ltr'>DIED</span> <span class='ocrx_word' id='word_1_10' title='bbox 794 2685 840 2739; x_wconf 71' lang='grc' dir='ltr'>ΒΥ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 394 2759 1058 3104; baseline -0.003 -134.911"><span class='ocrx_word' id='word_1_11' title='bbox 394 2759 1058 3104; x_wconf 54' lang='lat' dir='ltr'>{W2w112s0N,M-.„A</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1524 5106">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1524 5106">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1524 5106; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1524 5106; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
